@@ -12,5 +12,5 @@ On the upper right of the screen is shown the time since the start of the game i
 format. Before the game starts, a countdown is shown on the screen. In the intro screen the user is
 provided with the necessary information on how to play the game.
 
-## GAme developing sketch
+## Game developing sketch
 ![Image description](https://raw.githubusercontent.com/ArensDemaliaj/SpaceShipProcessing/master/sketches/final_sketch.png)
